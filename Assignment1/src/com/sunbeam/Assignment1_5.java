@@ -39,7 +39,7 @@ public class Assignment1_5 {
 		
 		else
 			System.out.println("key is not found");
-
+		sc.close();
 	}
 
 }
